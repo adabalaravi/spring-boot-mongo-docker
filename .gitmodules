@@ -1,6 +1,0 @@
-[submodule "StockMonitor"]
-	path = StockMonitor
-	url = https://github.com/adabalaravi/StockMonitor.git
-[submodule "spring"]
-	path = spring
-	url = https://github.com/adabalaravi/spring-music.git
